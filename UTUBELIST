@@ -9,5 +9,55 @@ https://www.youtube.com/watch?v=F5Tt3LoygCQ
 https://seed-us1.gloria.tv/4xeC19PyKNuaBXe3vxFhAQsmN/0jbj8k4pqlrmzbhsvc9comzxvzjm2l98phyxbjk.mp4?download=San-Francisco-de-Asis-y-Sta-Clara.-La-Pelicula-MaMd7sLbPSFV36fVaa71qKGJw.mp4
 #EXTINF:-1,Ancien Aliens 01
 https://t13.gomoplayer.com/vxokfw7cwkalavf4ercyvkw5tdwixw2eyi3t45i7odxn7mkkz5anwdey7pmq/v.mp4
-#EXTINF:-1,OK.RU
-https//ok.ru/videoembed/4531875618375
+#EXTINF:-1,OK
+[
+  {
+    "fragUrlTemplate": "frag-high-%%id%%.dash",
+    "jidxUrl": "stream-high.jidx",
+    "codecs": "video/mp4; codecs\u003d\"avc1.4D401F,mp4a.40.2\"",
+    "headerUrl": "stream-high.hdr",
+    "name": "high",
+    "video": {
+      "width": 1280,
+      "height": 720
+    },
+    "bitrate": 2653964
+  },
+  {
+    "fragUrlTemplate": "frag-low-%%id%%.dash",
+    "jidxUrl": "stream-low.jidx",
+    "codecs": "video/mp4; codecs\u003d\"avc1.4D401E,mp4a.40.2\"",
+    "headerUrl": "stream-low.hdr",
+    "name": "low",
+    "video": {
+      "width": 640,
+      "height": 360
+    },
+    "bitrate": 758825
+  },
+  {
+    "fragUrlTemplate": "frag-medium-%%id%%.dash",
+    "jidxUrl": "stream-medium.jidx",
+    "codecs": "video/mp4; codecs\u003d\"avc1.4D401F,mp4a.40.2\"",
+    "headerUrl": "stream-medium.hdr",
+    "name": "medium",
+    "video": {
+      "width": 864,
+      "height": 488
+    },
+    "bitrate": 1279076
+  },
+  {
+    "fragUrlTemplate": "frag-lowest-%%id%%.dash",
+    "jidxUrl": "stream-lowest.jidx",
+    "codecs": "video/mp4; codecs\u003d\"avc1.4D4015,mp4a.40.2\"",
+    "headerUrl": "stream-lowest.hdr",
+    "name": "lowest",
+    "video": {
+      "width": 428,
+      "height": 240
+    },
+    "bitrate": 366290
+  }
+]
+
