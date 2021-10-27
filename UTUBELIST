@@ -41,4 +41,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984784c
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad8f86e1eba00081da3ce/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8ae1b0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97358d7c-5219-43db-bcda-c5057f0bc369
 #EXTINF:-1,SamSClu
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1Tune
+https://tunein.com/radio/Onda-Cero-Peru-981-s97141/
 
