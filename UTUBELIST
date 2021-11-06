@@ -31,8 +31,8 @@ https://cdn87.theus6tv.tk/locals/NewYorkCity/wxtv-dt1.m3u8
 https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt2.m3u8
 #EXTINF:-1,INVDIS
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/33304
-#EXTINF:-1,NICS5
-https://m-5-ca.cdnpluto.club/_v4/o1/9f91f0969488658ef894877aa6aa0f0f277b94acd621098709330c6cf8d2232b1fd80c2d685069fe2f0dffc5bc403b00c4fae7ff12b00ae110b1fd508c1802be7350f611a77e2910bc791487aec1554d9bae04b8462b2f4befe523f0cdec699dc9063b6842a34e70e4b3a1c3ad3e344f3a7933df13788245dfa3c3e5e31b5c51/index.m3u8
+#EXTINF:-1,BSTCAB
+https://tv.siete.us:19360/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,PluCl1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,PluCl2
